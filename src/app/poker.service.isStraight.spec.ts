@@ -105,7 +105,6 @@ describe('isStraight', () => {
                     service.isStraight([2, 3], [2, 3]);
                 }).toThrowError(service.errorCommunityCardCountWrong.message);
             });
-
         });
     });
 

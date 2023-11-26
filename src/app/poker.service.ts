@@ -15,6 +15,8 @@ export class PokerService {
   constructor() { }
 
   isStraight = (playerCards: number[], communityCards: number[] = []): boolean => {
+    //TODO you will implement your code here. 
+    //If you are a Padawan I can help you do this
     return false;
   };
 
