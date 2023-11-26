@@ -9,7 +9,7 @@ describe('isStraight', () => {
         service = TestBed.inject(PokerService);
     });
 
-    describe('check all error s', () => {
+    describe('check all errors', () => {
 
         describe('playerMustHave2Cards: a player must have 2 cards in their hand', () => {
 
